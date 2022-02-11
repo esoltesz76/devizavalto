@@ -1,0 +1,43 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/sedit/KIRA/java_gyakorlas/devizavalto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/sedit/KIRA/java_gyakorlas/devizavalto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'devizavalto 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/sedit/KIRA/java_gyakorlas/devizavalto/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'devizavalto 1.0 API'
+hu.gov.allamkincstar.deviza
+'C:/sedit/KIRA/java_gyakorlas/devizavalto/src/main/java/hu/gov/allamkincstar/deviza/CertificatValidator.java'
+'C:/sedit/KIRA/java_gyakorlas/devizavalto/src/main/java/hu/gov/allamkincstar/deviza/DevizaAtvalto.java'
+C:\sedit\KIRA\java_gyakorlas\devizavalto\src\main\java = 1644326238602
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\allclasses-frame.html = 1644569173867
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\allclasses-noframe.html = 1644569173868
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\constant-values.html = 1644569173829
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\deprecated-list.html = 1644569173865
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\help-doc.html = 1644569173872
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\index-all.html = 1644569173862
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\index.html = 1644569173870
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\overview-tree.html = 1644569173858
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\package-list = 1644569173814
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\script.js = 1644569173875
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\serialized-form.html = 1644569173839
+C:\sedit\KIRA\java_gyakorlas\devizavalto\target\site\apidocs\stylesheet.css = 1644569173874
